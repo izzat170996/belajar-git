@@ -10,3 +10,5 @@ test cherry-pick
 Tambah lagi dari master
 
 Test tag
+
+Test banyak fetch
